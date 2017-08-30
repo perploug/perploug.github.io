@@ -1,0 +1,8 @@
+title: Ploug
+description: Something clever
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
