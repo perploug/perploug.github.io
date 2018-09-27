@@ -1,8 +1,16 @@
-title: Ploug
-description: Something clever
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-cayman
+name: plo.ug
+description: "Infrequent musings"
+meta_description: "Infrequent musings"
 
-gems:
-  - jekyll-mentions
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://plo.ug'
+google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'plo.ug'
+author:         'Per Ploug'
