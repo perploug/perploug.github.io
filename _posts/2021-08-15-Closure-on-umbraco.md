@@ -1,6 +1,11 @@
-----
+---
+layout: post
+title:  "Closing thoughts on Umbraco"
+date:   2021-08-20 13:00:00
+categories: umbraco personal closure
+---
 
-----
+
 Last week it finally became public knowledge that the Swedish equity fund Monterro is buying a majority stake in Umbraco, for me it marks an end of a 10 year journey with Umbraco, which I left 3 years ago, but didn’t really process before the sale negotiations started earlier this year. 
 
 On a rainy, grey day, back in 2007 I travelled to a dull office building outside Nyborg, the former site of the Great Belt Bridge building company. I was there to discuss with Niels on how we could make Umbraco a “real and sustainable business”, we spend hours in front of whiteboards and in spreadsheets, trying to figure out how many courses, add-ons and support contracts we would need to sell, to make 2 fulltime wages. We even dared to dream big and estimated that with a distributed team of 5-7 people, we would have an amazing operational setup. We threw around statements such as “stay small and nimble”, “let’s rewrite the rules”, “bootstrapped”. As I left the office late in the evening we had a plan. 
