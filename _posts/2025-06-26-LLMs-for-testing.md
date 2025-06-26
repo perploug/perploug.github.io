@@ -2,7 +2,7 @@
 layout: post
 title:  "Experimenting with LLMs for semantic testing"
 date:   2025-06-26 13:00:00
-categories: LLMs typescript testing
+categories: LLMs, typescript, testing
 ---
 
 
