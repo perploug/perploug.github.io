@@ -19,7 +19,7 @@ A common problem when building modern websites with searches, content recommenda
 
 Using standard testing tools, you can get an indication, but would require html parsing, knowledge of the html element structure etc, to get a red/green judgement, hence we have historically used QA teams of humans to catch these kind of issues. 
 
-Instead we can introduce an LLM into our testing setup, as I’m deploying my website in a container, it’s a low barrier to just use Jest, Testcontainers and Docker Model Runner which both run on my mac, and in CI/CD (with gpu available)
+Instead we can introduce an LLM into our testing setup, as I’m deploying my website in a container, it’s a low barrier to just use Jest, [Testcontainers](https://testcontainers.com/) and [Docker Model Runner](https://docs.docker.com/ai/model-runner/) which both run on my mac, and in CI/CD (with gpu available)
 
 All snippets in this post are shortened down for brewity, but can be found in [this github repo](https://github.com/perploug/LLMs-for-semantic-testing)
 
