@@ -8,6 +8,11 @@
 	display:inline;
 }
 
+
+.post {
+	max-width: 920px;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
