@@ -8,6 +8,9 @@ categories: LLMs, typescript, testing
 
 A common problem when building modern websites with searches, content recommendations and personalisation is that standard unit and integration testing can fairly easily show if the site is working, functionally, but its much harder to show if these complex content structures return content as expected by the user, as that require an understanding of what the user is expecting and a semantic understanding of the content they get back.
 
+
+> Semantic testing is a test design technique that focuses on evaluating the meaning and logical correctness of inputs and outputs based on the intended behavior of the system. It aims to detect errors related to misunderstandings of requirements, domain rules, or data interpretations rather than just syntactic mistakes.
+
 ### Some examples: 
 
 1. If I search for “black dress shoes” does my store return fancy shoes, or black dresses? 
